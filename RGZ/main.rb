@@ -47,5 +47,5 @@ printArray(findEqualDigits(arrayOfDigits))
 puts 'В массиве найдены нечетные элементы'
 printArray(findNotEqualDigits(arrayOfDigits))
 
-puts 'Сумма элементов числа 1820'
-puts sumDigit(1234560)
+puts 'Сумма элементов числа 456321'
+puts sumDigit(456321)
